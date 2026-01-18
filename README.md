@@ -4,7 +4,7 @@ Simple, no-bullshit terminal tool to create targeted wordlists for password reco
 
 I built this because most public generators either produce garbage or require 50 flags and a PhD to use.
 
-##Features
+###Features
 - Interactive input (one piece per line) or file (txt/csv, commas or newlines)
 - Removes duplicates automatically
 - Generates:
