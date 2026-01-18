@@ -30,7 +30,7 @@ python wordlist.py info.txt
 python wordlist.py person.csv
 ```
 
-###Mini-tutorial: Using your wordlist with John the Ripper & Hashcat
+###Mini-tutorial: Using your wordlist with John the Ripper & Hashcat###
 
 Hashcat (fastest, GPU-friendly)
 ```bash
